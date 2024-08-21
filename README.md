@@ -1,2 +1,2 @@
 # NLP2023
-자연어처리
+Natural Language Process (자연어처리)
